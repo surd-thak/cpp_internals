@@ -44,7 +44,7 @@
     - [ ] std::vector memory model (capacity, growth strategy)
     - [ ] std::string SSO (small-string optimization)
     - [ ] std::unordered_map hashing, buckets, load factor
-    - [ ] std::map / std::set as red-black trees
+    - [ ] std::map / std::set as avl trees
     - [ ] Iterators: invalidation rules
     - [ ] std::optional, std::variant behavior
     - [ ] std::thread, atomics, futures basics
